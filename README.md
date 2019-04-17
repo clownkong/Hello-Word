@@ -1,4 +1,4 @@
-# Hello-Word
+# Hello-World
 just another repository
 class Helloword{
   public static void main(String[] args){

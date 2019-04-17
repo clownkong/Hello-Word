@@ -1,7 +1,4 @@
 # Hello-Word
 just another repository
-class Word{
-  public static void main(String[] args){
-    System.out.println("good:好");
-  }
-}
+    System.out.println("good:"hahaha");
+ 
